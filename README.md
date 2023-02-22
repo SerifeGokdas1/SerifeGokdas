@@ -3,7 +3,8 @@
 
 
 ### Hi there 👋, I'm Serife. :heart_eyes:
-<br /> 
+
+
 ## Junior Web Developer 
 
 <font color="pink">Coffee ☕ is how I keep up with **< code />**</font>
