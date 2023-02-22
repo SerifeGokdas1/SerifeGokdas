@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JkOWNmZDBhMGU5ZDhhZjYyYjQxMjJjOGEyNmQxMzUwMTM0MjllYyZjdD1n/juyJp5tn5X0J6JRmaG/giphy.gif" align="right" width="600" height="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JkOWNmZDBhMGU5ZDhhZjYyYjQxMjJjOGEyNmQxMzUwMTM0MjllYyZjdD1n/juyJp5tn5X0J6JRmaG/giphy.gif" align="right" width="550" height="300">
 
 <br />
 ### Hi there 👋, I'm Serife. :heart_eyes:
