@@ -5,7 +5,7 @@
 ### Hi there 👋, I'm Serife. :heart_eyes:
 
 
-## Junior Web Developer 
+## Web Developer 
 
 <font color="pink">Coffee ☕ is how I keep up with **< code />**</font>
 <br /><br />
